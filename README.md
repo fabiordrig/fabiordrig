@@ -10,7 +10,7 @@
 💻 Full Stack Developer at [@terramagna](https://github.com/terramagna/) <br>
 🏡 Lived in São José dos Campos - São Paulo
 
-:atom: I loved Typescript, React, Rust :crab:, Node and Vue
+:atom: I love Typescript, React, Rust :crab:, Node and Vue
 
 
 ### Find me around the web 🌎
