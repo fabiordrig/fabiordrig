@@ -8,7 +8,7 @@
 ### Hello, I'm Fabio! 👋
 
 💻 Full Stack Developer at [@terramagna](https://github.com/terramagna/) <br>
-🏡 Lived in São José dos Campos - São Paulo
+🏡 Live in São José dos Campos - São Paulo
 
 :atom: I love Typescript, React, Rust :crab:, Node and Vue
 
