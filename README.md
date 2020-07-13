@@ -15,7 +15,7 @@
 
 ### Find me around the web 🌎
 
-🐦 https://twitter.com/gokudamalasia <br>
+🐦 https://twitter.com/fabiordrig <br>
 💼 https://www.linkedin.com/in/fabiordrig/ <br>
 
 </samp>
