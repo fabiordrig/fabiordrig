@@ -1,21 +1,40 @@
-<p align="center">
- <img width="100%" src="https://media1.tenor.com/images/31360b54a312e0d7903b5535c23c1c6e/tenor.gif?itemid=13625282" />
-</p>
+### Hey 👋🏽, I'm Fabio 
 
-<samp>
- 
+<a href="https://twitter.com/fabiordrig">
+  <img align="left" alt="Fabio Rodrigues | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/fabiordrig/">
+  <img align="left" alt="Fabio LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/fabiordrig">
+  <img align="left" alt="Fabio instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-### Hello, I'm Fabio! 👋
+<br />
+<br />
 
-💻 Full Stack Developer at [@terramagna](https://github.com/terramagna/) <br>
-🏡 Live in São José dos Campos - São Paulo
+Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer at 🙍🏽‍♂️ [@terramagna](https://terramagna.com.br/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online.
 
-:atom: I love Typescript, React, Rust :crab:, Node and Vue
+  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 🌱 I’m currently learning Rust, React; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: fabiordrigf@gmail.com;
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-### Find me around the web 🌎
 
-🐦 https://twitter.com/fabiordrig <br>
-💼 https://www.linkedin.com/in/fabiordrig/ <br>
-
-</samp>
+![Fabio github stats](https://github-readme-stats.vercel.app/api?username=fabiordrig&show_icons=true&hide_border=true)
