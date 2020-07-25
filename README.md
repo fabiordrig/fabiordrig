@@ -15,7 +15,7 @@
 
 Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer at 🙍🏽‍♂️ [@terramagna](https://terramagna.com.br/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online and Skyrim.
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/dragon-fantasy-skyrim-TAdayXZ1EB9kc" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/TAdayXZ1EB9kc/giphy.gif?cid=ecf05e47txvx99a2xufjewgflvklhbel4ml5vbww7mf0ueng&rid=giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -37,4 +37,4 @@ Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos,
 
 
 
-![Fabio github stats](https://github-readme-stats.vercel.app/api?username=fabiordrig&show_icons=true&hide_border=true)
+![Fabio github stats](https://github-readme-stats.vercel.app/api?username=fabiordrig&show_icons=true&hide_border=true&theme=radical)
