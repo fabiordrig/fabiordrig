@@ -13,16 +13,16 @@
 <br />
 <br />
 
-Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer at 🙍🏽‍♂️ [@terramagna](https://terramagna.com.br/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online.
+Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer at 🙍🏽‍♂️ [@terramagna](https://terramagna.com.br/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online and Skyrim.
 
-  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/dragon-fantasy-skyrim-TAdayXZ1EB9kc" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning Rust, React; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: fabiordrigf@gmail.com;
+- 📫 How to reach me: fabiordrig@gmail.com;
 
 **Languages and Tools:**  
 
@@ -32,7 +32,7 @@ Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
