@@ -38,4 +38,10 @@ Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos,
 
 
 
-![Fabio github stats](https://github-readme-stats.vercel.app/api?username=fabiordrig&show_icons=true&hide_border=true&theme=radical)
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiordrig&hide=html&layout=compact&theme=radical" /></td>
+
+  </tr> 
+  </table>
+
