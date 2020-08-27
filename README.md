@@ -15,7 +15,7 @@
 
 Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer at 🙍🏽‍♂️ [@terramagna](https://terramagna.com.br/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online and Skyrim.
 
-  <img align="right" width="250" alt="GIF" src="https://media0.giphy.com/media/TAdayXZ1EB9kc/giphy.gif?cid=ecf05e47txvx99a2xufjewgflvklhbel4ml5vbww7mf0ueng&rid=giphy.gif" />
+  <img align="right" width="230" alt="GIF" src="https://media0.giphy.com/media/TAdayXZ1EB9kc/giphy.gif?cid=ecf05e47txvx99a2xufjewgflvklhbel4ml5vbww7mf0ueng&rid=giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -35,7 +35,6 @@ Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
 
 <table>
