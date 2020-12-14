@@ -20,7 +20,7 @@ Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Rust, React; 
+- 🌱 I’m currently studyng Rust and TypeScript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: fabiordrig@gmail.com;
 
