@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer at 🙍🏽‍♂️ [@bluecord](https://bluecord.com/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online and Skyrim.
+Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online and Skyrim.
 
   <img align="right" width="230" alt="GIF" src="https://media0.giphy.com/media/TAdayXZ1EB9kc/giphy.gif?cid=ecf05e47txvx99a2xufjewgflvklhbel4ml5vbww7mf0ueng&rid=giphy.gif" />
 
