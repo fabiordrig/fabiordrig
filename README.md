@@ -1,48 +1,52 @@
-### Hey 👋🏽, I'm Fabio 
+<h2 align="center">⚽ → 💻 Hey, I'm Fabio Rodrigues</h2>
 
-<a href="https://twitter.com/fabiordrig">
-  <img align="left" alt="Fabio Rodrigues | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/fabiordrig/">
-  <img align="left" alt="Fabio LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/fabiordrig">
-  <img align="left" alt="Fabio instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="center">
+  <em>Former professional football player in Brazil. Now I play in a different field — shipping software.</em>
+</p>
 
-<br />
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabiordrig/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/fabiordrig"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/fabiordrig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:fabiordrig@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Hi, I'm Fabio Rodrigues, a Full Stack Developer 🚀 from São José dos Campos, currently, I'm a Full Stack Developer. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Elder Scrolls Online and Skyrim.
+---
 
-  <img align="right" width="230" alt="GIF" src="https://media0.giphy.com/media/TAdayXZ1EB9kc/giphy.gif?cid=ecf05e47txvx99a2xufjewgflvklhbel4ml5vbww7mf0ueng&rid=giphy.gif" />
+### 🏟️ The story
 
-**Talking about Personal Stuffs:**
+I grew up chasing a ball on Brazilian pitches and made it to professional football. The game taught me everything I use today as a **Senior Software Engineer**: discipline, reading the play before it happens, and performing under pressure when the whole stadium is watching — which, it turns out, is great training for production incidents.
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently studyng Rust and Go; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: fabiordrig@gmail.com;
+Today I'm based in **São José dos Campos, SP 🇧🇷**, building backend systems and full-stack products. Same competitive drive, different arena.
 
-**Languages and Tools:**  
+### ⚙️ What I play with
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+```ts
+const fabio = {
+  position: "Senior Software Engineer (ex-jogador de futebol)",
+  firstTouch: ["TypeScript", "Node.js", "Bun"],
+  midfield: ["React", "Vue", "Elysia", "Fastify"],
+  defense: ["PostgreSQL", "Drizzle", "Redis"],
+  training: ["Rust", "Go"],
+  playStyle: "creative problem solving, tested before shipped",
+};
+```
 
+- 🥅 Currently building production APIs with **Bun + Elysia + PostgreSQL**
+- 🌱 Leveling up in **Rust** and **Go**
+- 🎮 Off the pitch: Elder Scrolls Online and Skyrim
+- 💬 Ask me anything — about code or about why Brazilian football is the best football
+- 📫 Reach me: **fabiordrig@gmail.com**
+
+### 📊 Match stats
 
 <table>
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiordrig&theme=radical" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiordrig&hide=html&layout=compact&theme=radical" /></td>
-      
-  </tr> 
-  </table>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=fabiordrig&theme=radical&show_icons=true" /></td>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiordrig&hide=html&layout=compact&theme=radical" /></td>
+  </tr>
+</table>
 
-
+<p align="center">
+  <em>"Football is played with the head. The feet are just the tools." — same goes for code.</em>
+</p>
