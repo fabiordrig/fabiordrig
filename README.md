@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Fabio Rodrigues 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&width=500&lines=Senior+Software+Engineer;TypeScript+%7C+Bun+%7C+PostgreSQL;Building+reliable+backends" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&width=500&lines=Senior+Software+Engineer;Solving+problems%2C+not+symptoms;From+football+pitches+to+production;Building+reliable+backends" alt="typing animation" />
 </p>
 
 ## 🧠 About me
