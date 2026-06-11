@@ -1,52 +1,71 @@
-<h2 align="center">⚽ → 💻 Hey, I'm Fabio Rodrigues</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=600&lines=fabio%40sjc%3A~%24+whoami;Senior+Software+Engineer;fabio%40sjc%3A~%24+uptime;shipping+code+since+2018" alt="terminal typing" />
 
-<p align="center">
-  <em>Former professional football player in Brazil. Now I play in a different field — shipping software.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabiordrig/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/fabiordrig"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/fabiordrig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:fabiordrig@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-### 🏟️ The story
-
-I grew up chasing a ball on Brazilian pitches and made it to professional football. The game taught me everything I use today as a **Senior Software Engineer**: discipline, reading the play before it happens, and performing under pressure when the whole stadium is watching — which, it turns out, is great training for production incidents.
-
-Today I'm based in **São José dos Campos, SP 🇧🇷**, building backend systems and full-stack products. Same competitive drive, different arena.
-
-### ⚙️ What I play with
-
-```ts
-const fabio = {
-  position: "Senior Software Engineer (ex-jogador de futebol)",
-  firstTouch: ["TypeScript", "Node.js", "Bun"],
-  midfield: ["React", "Vue", "Elysia", "Fastify"],
-  defense: ["PostgreSQL", "Drizzle", "Redis"],
-  training: ["Rust", "Go"],
-  playStyle: "creative problem solving, tested before shipped",
-};
+```console
+fabio@sjc:~$ whoami
+Fabio Rodrigues — Senior Software Engineer
+São José dos Campos, SP — Brazil 🇧🇷
 ```
 
-- 🥅 Currently building production APIs with **Bun + Elysia + PostgreSQL**
-- 🌱 Leveling up in **Rust** and **Go**
-- 🎮 Off the pitch: Elder Scrolls Online and Skyrim
-- 💬 Ask me anything — about code or about why Brazilian football is the best football
-- 📫 Reach me: **fabiordrig@gmail.com**
+```console
+fabio@sjc:~$ cat stack.json
+{
+  "languages":  ["TypeScript", "JavaScript", "Rust*", "Go*"],
+  "runtimes":   ["Bun", "Node.js"],
+  "backend":    ["Elysia", "Fastify"],
+  "frontend":   ["React", "Vue"],
+  "database":   ["PostgreSQL", "Drizzle ORM", "Redis"],
+  "_comment":   "* compiling knowledge... 🦀"
+}
+```
 
-### 📊 Match stats
+```console
+fabio@sjc:~$ history | tail -7
+  501  bun test                        # green or it didn't happen
+  502  git commit -m "fix: works now"  # narrator: it did not
+  503  git commit -m "fix: works now (for real)"
+  504  cargo build                     # ☕ time
+  505  docker compose down && docker compose up  # the classic
+  506  git push --force-with-lease     # living dangerously, responsibly
+  507  history | tail -7               # wait, you're reading this
+```
+
+```console
+fabio@sjc:~$ cat fun-facts.txt
+→ before the terminal, I was a professional football player in Brazil ⚽
+→ off duty: Elder Scrolls Online & Skyrim 🐉
+→ creative problem solver — bugs fear me (citation needed)
+```
+
+```console
+fabio@sjc:~$ ./watch-snake --eating-my-commits
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiordrig/fabiordrig/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiordrig/fabiordrig/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fabiordrig/fabiordrig/output/github-contribution-grid-snake.svg" />
+</picture>
+
+```console
+fabio@sjc:~$ curl -s api.github.com/stats/fabiordrig
+```
 
 <table>
   <tr>
-    <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=fabiordrig&theme=radical&show_icons=true" /></td>
-    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiordrig&hide=html&layout=compact&theme=radical" /></td>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=fabiordrig&theme=tokyonight&show_icons=true&hide_border=true" /></td>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiordrig&hide=html&layout=compact&theme=tokyonight&hide_border=true" /></td>
   </tr>
 </table>
 
-<p align="center">
-  <em>"Football is played with the head. The feet are just the tools." — same goes for code.</em>
-</p>
+```console
+fabio@sjc:~$ links --connect
+```
+
+<a href="https://www.linkedin.com/in/fabiordrig/"><img src="https://img.shields.io/badge/LinkedIn-fabiordrig-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fabiordrig@gmail.com"><img src="https://img.shields.io/badge/Email-fabiordrig%40gmail.com-2b2b2b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+```console
+fabio@sjc:~$ exit
+logout — thanks for stopping by 👋
+Connection to fabiordrig closed.
+```
